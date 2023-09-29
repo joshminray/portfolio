@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+# Welcome to my sample portfolio!
 
+This is an example that I will be updating periodically.
 
 #### Here are some example pages:
 
